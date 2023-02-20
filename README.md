@@ -10,3 +10,5 @@ For this :
 - Complete your informations in `db_sql.py` before run it.
 
 Now you are just complete few informations in `chatgpt.sh` script and modify the RunOnReceive in `/etc/gammu-smsdrc` for the script path and you are ready for launch !
+
+Used in a Raspberry Pi 3B+ with a modem huawei E3276
