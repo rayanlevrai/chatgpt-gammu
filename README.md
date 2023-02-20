@@ -9,4 +9,4 @@ For this :
 - Make sure your are installed and setup MySQL with phpMyAdmin.
 - Complete your informations in `db_sql.py` before run it.
 
-Now you are just complete few informations in `chatgpt.sh` script and modify the RunOnReceive in `/etc/gammu-smsdrc` for teh script path and you are ready for launch !
+Now you are just complete few informations in `chatgpt.sh` script and modify the RunOnReceive in `/etc/gammu-smsdrc` for the script path and you are ready for launch !
